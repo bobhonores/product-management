@@ -547,3 +547,6 @@ logs/
 
 # Exclude database
 src/*/ProductManagementDB.db*
+
+# Remove .DS_Store files
+.DS_Store
